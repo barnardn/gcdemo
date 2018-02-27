@@ -35,7 +35,7 @@ collaborator (say my Dox work account). I imported my Dox gnupg key into my keyc
     
 I added that account as a user:
 
-    `git-crypt add-gpg-user nbarnard@doximity.com`
+    git-crypt add-gpg-user nbarnard@doximity.com
     
 committed and pushed the changes to github.
 
