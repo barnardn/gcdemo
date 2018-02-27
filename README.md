@@ -33,10 +33,13 @@ collaborator (say my Dox work account). I imported my Dox gnupg key into my keyc
 
     Keys 1-2 of 2 for "nbarnard@doximity.com".  Enter number(s), N)ext, or Q)uit > 1
     
-I added that account as a user:
+For the live part of the demo, on my other laptop I will add my Dox account 
+as a collaborator:
 
     git-crypt add-gpg-user nbarnard@doximity.com
     
 committed and pushed the changes to github.
+
+And back on my work laptop, pull and unlock.
 
 
