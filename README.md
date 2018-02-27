@@ -31,7 +31,7 @@ collaborator (say my Dox work account). I imported my Dox gnupg key into my keyc
     (2)     Norm Barnard <nbarnard@doximity.com>
               4096 bit RSA key 1648F3C8, created: 2017-01-02
 
-    Keys 1-2 of 2 for "nbarnard@doximity.com".  Enter number(s), N)ext, or Q)uit > 2
+    Keys 1-2 of 2 for "nbarnard@doximity.com".  Enter number(s), N)ext, or Q)uit > 1
     
 I added that account as a user:
 
